@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/andrew-dew/C# WebApplication/WebApplication1/WebApplication1.csproj": {}
+    "/Users/andrew-dew/projects/C# WebApplication/WebApplication1/WebApplication1.csproj": {}
   },
   "projects": {
-    "/Users/andrew-dew/C# WebApplication/WebApplication1/WebApplication1.csproj": {
+    "/Users/andrew-dew/projects/C# WebApplication/WebApplication1/WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/andrew-dew/C# WebApplication/WebApplication1/WebApplication1.csproj",
+        "projectUniqueName": "/Users/andrew-dew/projects/C# WebApplication/WebApplication1/WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "/Users/andrew-dew/C# WebApplication/WebApplication1/WebApplication1.csproj",
+        "projectPath": "/Users/andrew-dew/projects/C# WebApplication/WebApplication1/WebApplication1.csproj",
         "packagesPath": "/Users/andrew-dew/.nuget/packages/",
-        "outputPath": "/Users/andrew-dew/C# WebApplication/WebApplication1/obj/",
+        "outputPath": "/Users/andrew-dew/projects/C# WebApplication/WebApplication1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/andrew-dew/.nuget/NuGet/NuGet.Config"
